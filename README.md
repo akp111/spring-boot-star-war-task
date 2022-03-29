@@ -15,7 +15,7 @@ It contains important logic for the successful execution of the task
 response:
 ```Welcome to Star Wars!```
 
-### `localhost:8080/information`
+### `localhost:8080/information/{shipId}/{planetId}`
 response:
 ```{
   starship: {
